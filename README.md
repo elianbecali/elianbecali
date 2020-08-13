@@ -1,16 +1,14 @@
-### Hi there 👋
+### Fala pessoa 👋
 
-
-**elianbecali/elianbecali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- Atualmeente trabalho? 👨‍💻
+  - Não, mas estudando!
+  
+- Qual linguagem?
+  - __JavaScript__
+  
+- O estou estudando atualmente?
+  - Atualmente estou focado em __NodeJS__, __ReactJS__.  
+  
+- O que pretende estudar?
+  - Aprender mobile com __React Native__.
+  
