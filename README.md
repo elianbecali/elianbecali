@@ -1,4 +1,7 @@
-### Fala pessoa 👋
+### Seja bem vindo(a) 😃
+
+
+
 
 - Atualmeente trabalho? 👨‍💻
   - Não, mas estudando!
