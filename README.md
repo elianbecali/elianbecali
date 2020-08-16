@@ -1,6 +1,6 @@
 # Seja bem vindo(a)! 😃
 
-Meu nome é **Elian Becali** estudante e desenvolvedor full stack com as tecnologias que usam **avaScript**. Sou um entusiasta apaixonado por tecnologia em busca de conhecimentos, sempre procurando melhorar sempre! 😉
+Meu nome é **Elian Becali** estudante e desenvolvedor full stack com as tecnologias que usam **JavaScript**. Sou um entusiasta apaixonado por tecnologia em busca de conhecimentos, sempre procurando melhorar sempre! 😉
 
 
 - Atualmeente trabalho? 👨‍💻
