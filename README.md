@@ -1,20 +1,16 @@
-### Seja bem vindo(a) 😃
+# Seja bem vindo(a)! 😃
 
-
-<p>
-  Deixa eu me apresentar, meu nome é __Elian Becali__ estudante e desenvolvedor full stack com as tecnologias que usam __JavaScript__. Sou um entusiasta apaixonado por tecnologia em busca de conhecimentos, sempre procurando melhorar sempre! 😉
-</p>
+Meu nome é **Elian Becali** estudante e desenvolvedor full stack com as tecnologias que usam **avaScript**. Sou um entusiasta apaixonado por tecnologia em busca de conhecimentos, sempre procurando melhorar sempre! 😉
 
 
 - Atualmeente trabalho? 👨‍💻
   - Não, mas estudando!
-  
 - Qual linguagem?
-  - __JavaScript__
-  
+  - **JavaScript**
 - O estou estudando atualmente?
-  - Atualmente estou focado em __NodeJS__, __ReactJS__.  
-  
+  - Atualmente estou focado em **NodeJS**, **ReactJS**.  
 - O que pretende estudar?
-  - Aprender mobile com __React Native__.
-  
+  - Aprender mobile com **React Native**.
+
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCJDgqgKLwt6xaVdqm4o5sjg/videos)](https://www.youtube.com/channel/UCJDgqgKLwt6xaVdqm4o5sjg/videos)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elian-becali-697033190/(https://www.linkedin.com/in/elian-becali-697033190/))](https://www.linkedin.com/in/elian-becali-697033190/)   [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/elianbecali/)](https://www.instagram.com/elianbecali/)
