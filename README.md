@@ -1,6 +1,6 @@
 # Hi there! 
 
-Sou desenvolvedor front-end apaixonado por tecnologia, já tive experiência com Typescript, NodeJS, ReactJS e React Native. Atualmente sou estudante do curso JStack sendo ministrado por Mateus Silva, onde aprendemos as melhores tecnologias de desenvolvimento web e mobile.
+Sou desenvolvedor Full Stack apaixonado por tecnologia, já tive experiência com Typescript, NodeJS, ReactJS e React Native. Atualmente sou estudante do curso JStack sendo ministrado por Mateus Silva, onde aprendemos as melhores tecnologias de desenvolvimento web e mobile.
 
 <p align="center">
   
