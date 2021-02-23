@@ -10,6 +10,8 @@ Sou um FullStack Developer :computer:
 - 💬  Sobre mim: Curto tecnologias e filmes
 - :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Elian%20Becali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianbecali/)](https://www.linkedin.com/in/elianbecali/) 
 |
+[![Discord badge](https://img.shields.io/badge/-Elian%20Becali%23%EF%B8%8F5593-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
+|
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/elianbecali?sub_confirmation=1)](https://www.youtube.com/c/elianbecali?sub_confirmation=1)
 | 
 [![Gmail Badge](https://img.shields.io/badge/-elianbecaliaguiar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elianbecaliaguiar@gmail.com)](mailto:elianbecaliaguiar@gmail.com)
