@@ -6,7 +6,6 @@ Sou apaixonado por tecnologias desde muito cedo, disposto a encarar problemas e 
 - :rocket:   Estou trabalhando/estudando **ReactJS**
 - :blush: Posso te ajudar com CSS & ReactJS
 - :computer: Minha stack: ReactJS, Node.js, React Native & Typescript
-- 💬  Sobre mim: Curto tecnologias e filmes
 - :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Elian%20Becali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianbecali/)](https://www.linkedin.com/in/elianbecali/) 
 |
 [![Discord badge](https://img.shields.io/badge/-Elian%20Becali%23%EF%B8%8F5593-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
