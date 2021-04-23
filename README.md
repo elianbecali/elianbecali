@@ -1,7 +1,6 @@
 # Elian Becali
 
 ### Olá pessoal 👋
-Sou apaixonado por tecnologias desde muito cedo, disposto a encarar problemas e desafios utilizando a programação como um meio para a solucão. Sou Desenvolvedor Full Stack :computer:
 
 - :rocket:   Estou trabalhando/estudando **ReactJS**
 - :blush: Posso te ajudar com CSS & ReactJS
