@@ -1,6 +1,6 @@
 # Elian Becali
 
-### Olá pessoal 👋
+### Olá pessoal! 👋
 
 - :rocket:   Estou trabalhando/estudando **ReactJS**
 - :blush: Posso te ajudar com CSS & ReactJS
