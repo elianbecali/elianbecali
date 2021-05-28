@@ -5,10 +5,11 @@
 - :rocket:   Estou trabalhando/estudando **ReactJS**
 - :computer: Minha stack: ReactJS, Node.js, React Native & Typescript
 - :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Elian%20Becali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianbecali/)](https://www.linkedin.com/in/elianbecali/) 
-|
-[![Discord badge](https://img.shields.io/badge/-Elian%20Becali%23%EF%B8%8F5593-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com)
 | 
 [![Gmail Badge](https://img.shields.io/badge/-elianbecaliaguiar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elianbecaliaguiar@gmail.com)](mailto:elianbecaliaguiar@gmail.com)
+
+<!-- |
+[![Discord badge](https://img.shields.io/badge/-Elian%20Becali%23%EF%B8%8F5593-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com)](https://discord.com) -->
 
 ![](https://komarev.com/ghpvc/?username=elianbecali0&color=blue&style=flat)
 
