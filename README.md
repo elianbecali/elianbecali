@@ -28,6 +28,7 @@ I am Front End Developer, I'm always learning
 ![React](https://img.shields.io/badge/React-282C34?logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-282C34?logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-282C34?logo=next.js)&nbsp;
+![i18next](https://img.shields.io/badge/i18next-282C34?logo=i18next)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/SASS-282C34?logo=sass)&nbsp;
